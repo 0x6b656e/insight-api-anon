@@ -8,13 +8,6 @@
     ]
   },
   {
-    "poolName": "Bitfly",
-    "url": "https://zcash.flypool.org/",
-    "searchStrings": [
-      "/flypool/"
-    ]
-  },
-  {
     "poolName": "NaN",
     "url": "",
     "searchStrings": [
@@ -22,31 +15,10 @@
     ]
   },
   {
-    "poolName": "Zmine",
-    "url": "https://zmine.io/",
-    "searchStrings": [
-      "{ZMINE.IO}"
-    ]
-  },
-  {
     "poolName": "Someone using z-nomp!",
     "url": "https://github.com/z-classic/z-nomp/",
     "searchStrings": [
       "Z-NOMP! https://github.com/joshuayabut/z-nomp"
-    ]
-  },
-  {
-    "poolName": "Bitcoin Private Official Pool",
-    "url": "https://pool.btcprivate.org",
-    "searchStrings": [
-      "Bitcoin Private Official Pool  https://pool.btcprivate.org"
-    ]
-  },
-  {
-    "poolName": "ZClassic Donation Fund!",
-    "url": "https://fund.zclassic.org",
-    "searchStrings": [
-      "ZClassic Donation Fund! -- https://fund.zclassic.org"
     ]
   },
   {
@@ -68,13 +40,6 @@
     "url": "http://www.zpool.ca/",
     "searchStrings": [
       "www.zpool.ca"
-    ]
-  },
-  {
-    "poolName": "ForgeTop",
-    "url": "https://btcp.forgetop.com",
-    "searchStrings": [
-      "Forge Top - the profitable mining pool ----->"
     ]
   },
   {
@@ -100,54 +65,12 @@
     ]
   },
   {
-    "poolName": "BTCPrivate.pro",
-    "url": "http://btcprivate.pro",
-    "searchStrings": [
-      "btcprivate.pro"
-    ]
-  },
-  {
-    "poolName": "CoinBlockers",
-    "url": "https://btcp.coinblockers.com",
-    "searchStrings": [
-      "coinblockers.com - https://coinblockers.com"
-    ]
-  },
-  {
     "poolName": "Get2Mine",
     "url": "https://www.get2mine.com",
     "searchStrings": [
       "Get2Mine! https://www.get2mine.com"
     ]
   },
-  {
-    "poolName": "Vicious Miner",
-    "url": "https://viciousminer.com",
-    "searchStrings": [
-      "Vicious Miner https://viciousminer.com"
-    ]
-   },
-  {
-    "poolName": "Lucky-Mining",
-    "url": "https://btcp.lucky-mining.com.ua/",
-    "searchStrings": [
-      "lucky-mining.com.ua"
-    ]
-  },
-    {
-    "poolName": "Vicious Miner",
-    "url": "https://viciousminer.com",
-    "searchStrings": [
-      "Vicious Miner https://viciousminer.com"
-    ]
-   },
-  {
-    "poolName": "Pickaxe.Pro",
-    "url": "http://btcp.pickaxe.pro",
-    "searchStrings": [
-      "Pickaxe.pro"
-    ]
-   },
    {
     "poolName": "Panda Mines",
     "url": "https://pandamines.com",
